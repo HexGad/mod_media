@@ -1,0 +1,11 @@
+{
+    "name": "Media",
+    "alias": "media",
+    "description": "",
+    "keywords": [],
+    "priority": 4,
+    "providers": [
+        "HexGad\\Media\\Providers\\MediaServiceProvider"
+    ],
+    "files": []
+}
